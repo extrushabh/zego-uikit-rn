@@ -1,0 +1,1 @@
+{"version":3,"names":["ZegoLayoutMode","pictureInPicture","gallery"],"sources":["ZegoLayotMode.js"],"sourcesContent":["const ZegoLayoutMode = {\n    pictureInPicture: 0,\n    gallery: 1\n}\n\nexport default ZegoLayoutMode;"],"mappings":"AAAA,MAAMA,cAAc,GAAG;EACnBC,gBAAgB,EAAE,CADC;EAEnBC,OAAO,EAAE;AAFU,CAAvB;AAKA,eAAeF,cAAf"}
